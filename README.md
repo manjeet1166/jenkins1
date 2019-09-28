@@ -2,7 +2,8 @@
 
 Required Softwares:
 -------------------------
-Jenkins - http://mirrors.jenkins.io/war/latest/...
+Jenkins - http://mirrors.jenkins.io/war/latest/
+
 Git SCM plugin
 Maven plugin 
 Deploy to container Plugin
